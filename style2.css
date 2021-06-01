@@ -27,35 +27,54 @@ h1 a{
     }
   }
 
-.column {
+  .column {
     float: left;
     width: 25%;
     padding: 0 10px;
-}
+  }
 
-h2 {
+  h2 {
       font-weight: bold;
       color: black;
-}
+  }
 
-p {
+  p {
       color: #273036;
-}
+  }
 
-.gradient {
+    .gradient {
     background-color: #FFC300;
     background-image: linear-gradient(160deg, #FFC300 0%, #dfdb19 100%);
- }
+    }
 
-.first{
+    .first{
         margin-top: 6rem;
         font-size: 1.2rem;
         color: white;
- }
+    }
     
-.second img{
+    .second img{
         border-radius: 15%;
         width: 410px;
         height: 360px;
         padding: 10px;
- }
+    }
+
+    .third {
+        margin-top: 6rem;
+    }
+
+    .third img {
+        width: 350px;
+        height: 150px;
+        padding: 10px;
+    }
+
+    .fourth {
+        margin-top: 6rem; 
+    }
+
+    footer {
+        font-size: 1rem;
+        border-radius: 10%;
+    }
